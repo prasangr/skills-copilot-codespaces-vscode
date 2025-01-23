@@ -1,0 +1,1 @@
+function add(var1,var2){}
